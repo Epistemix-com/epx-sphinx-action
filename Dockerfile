@@ -1,4 +1,4 @@
-FROM sphinxdoc/sphinx:2.4.4
+FROM sphinxdoc/sphinx:5.2.2
 
 LABEL "maintainer"="Andrew Lane <andrew.lane@epistemix.com>"
 
